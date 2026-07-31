@@ -1,0 +1,28 @@
+﻿type,county_code,county_name,name,file_name,path,usage
+全臺圖,,,population-factor-score-5class.png,,assets/maps/population-factor-score-5class.png,首頁全臺因子分數圖／縣市分圖的全臺選項／核心圖「因子成果」
+全臺圖,,,population-density-5class.png,,assets/maps/population-density-5class.png,核心圖「人口密度 5 級圖」
+全臺圖,,,conflict-heat-5class.png,,assets/maps/conflict-heat-5class.png,核心圖「人犬衝突熱度 5 級圖」
+全臺圖,,,factor-score-2to10.png,,assets/maps/factor-score-2to10.png,備用：原始 2–10 因子分數圖，目前 HTML 未直接使用
+全臺圖,,,high-conflict-top20-mask.png,,assets/maps/high-conflict-top20-mask.png,備用：高衝突前 20% 遮罩，目前 HTML 未直接使用
+全臺圖,,,population-conflict-overlay-code.png,,assets/maps/population-conflict-overlay-code.png,備用：人口密度 × 衝突熱度疊合編碼，目前 HTML 未直接使用
+縣市圖,09020,金門縣,,09020.png,assets/counties/09020.png,縣市分圖：金門縣
+縣市圖,10002,宜蘭縣,,10002.png,assets/counties/10002.png,縣市分圖：宜蘭縣
+縣市圖,10004,新竹縣,,10004.png,assets/counties/10004.png,縣市分圖：新竹縣
+縣市圖,10005,苗栗縣,,10005.png,assets/counties/10005.png,縣市分圖：苗栗縣
+縣市圖,10007,彰化縣,,10007.png,assets/counties/10007.png,縣市分圖：彰化縣
+縣市圖,10008,南投縣,,10008.png,assets/counties/10008.png,縣市分圖：南投縣
+縣市圖,10009,雲林縣,,10009.png,assets/counties/10009.png,縣市分圖：雲林縣
+縣市圖,10010,嘉義縣,,10010.png,assets/counties/10010.png,縣市分圖：嘉義縣
+縣市圖,10013,屏東縣,,10013.png,assets/counties/10013.png,縣市分圖：屏東縣
+縣市圖,10014,臺東縣,,10014.png,assets/counties/10014.png,縣市分圖：臺東縣
+縣市圖,10015,花蓮縣,,10015.png,assets/counties/10015.png,縣市分圖：花蓮縣
+縣市圖,10016,澎湖縣,,10016.png,assets/counties/10016.png,縣市分圖：澎湖縣
+縣市圖,10017,基隆市,,10017.png,assets/counties/10017.png,縣市分圖：基隆市
+縣市圖,10018,新竹市,,10018.png,assets/counties/10018.png,縣市分圖：新竹市
+縣市圖,10020,嘉義市,,10020.png,assets/counties/10020.png,縣市分圖：嘉義市
+縣市圖,63000,臺北市,,63000.png,assets/counties/63000.png,縣市分圖：臺北市
+縣市圖,64000,高雄市,,64000.png,assets/counties/64000.png,縣市分圖：高雄市
+縣市圖,65000,新北市,,65000.png,assets/counties/65000.png,縣市分圖：新北市
+縣市圖,66000,臺中市,,66000.png,assets/counties/66000.png,縣市分圖：臺中市
+縣市圖,67000,臺南市,,67000.png,assets/counties/67000.png,縣市分圖：臺南市
+縣市圖,68000,桃園市,,68000.png,assets/counties/68000.png,縣市分圖：桃園市
